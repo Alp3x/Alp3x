@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alp3x
 - 👀 I’m interested in physics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C/C++
 - 💞️ I’m looking to collaborate on Web Design
 - 📫 How to reach me Whatever
 
