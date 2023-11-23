@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alp3x
 - 👀 I’m interested in physics
-- 🌱 I’m currently learning C/C++
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Game Dev
 I Got no Bitches, i lost the game
 <!---
