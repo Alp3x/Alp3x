@@ -3,8 +3,6 @@
 I am a Software Engenieer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
 - ⚡ I like to make music and i'm a ligthing operator in my free time.
-- I Got no Bitches i Lost the Game
-
 
 ---
 
