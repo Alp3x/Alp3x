@@ -21,5 +21,3 @@ I am a Software Engenieer Student <img src="https://media.giphy.com/media/WUlplc
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MatLab" alt="MatLab" width="40" height="40"/>&nbsp;
     </div>
 </p>
-
----
