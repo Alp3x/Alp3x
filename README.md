@@ -6,7 +6,7 @@ I am a Software Engenieer Student <img src="https://media.giphy.com/media/WUlplc
 
 ---
 
-### 🛠 &nbsp;Languages and Tools(Used) :
+### 🛠 &nbsp;Languages and Tools :
 
 <p>
   <div class="Img">
