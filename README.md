@@ -28,8 +28,8 @@ I am a Software Engenieer Student <img src="https://media.giphy.com/media/WUlplc
 ---
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/1-eat-orange?logo={moto}&ogoColor={purple}">
-  <img src="https://img.shields.io/badge/2-code-purple?logo={moto}&ogoColor={purple}">
-  <img src="https://img.shields.io/badge/3-sleep-orange?logo={moto}&ogoColor={purple}">
-  <img src="https://img.shields.io/badge/4-repeat-purple?logo={moto}&ogoColor={purple}">
+  <img src="https://img.shields.io/badge/eat-orange?logo={moto}&ogoColor={purple}">
+  <img src="https://img.shields.io/badge/code-purple?logo={moto}&ogoColor={purple}">
+  <img src="https://img.shields.io/badge/sleep-orange?logo={moto}&ogoColor={purple}">
+  <img src="https://img.shields.io/badge/repeat-purple?logo={moto}&ogoColor={purple}">
 </div>
