@@ -24,9 +24,6 @@ I am a Software Engenieer Student <img src="https://media.giphy.com/media/WUlplc
     <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MatLab" alt="MatLab" width="40" height="40"/>&nbsp;
     </div>
 </p>
-
----
-
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/eat-orange?logo={moto}&ogoColor={purple}">
   <img src="https://img.shields.io/badge/code-purple?logo={moto}&ogoColor={purple}">
