@@ -5,7 +5,7 @@
 ### :woman_technologist: &nbsp;About Me :
 I am a Software Engenieer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Portugal.
 
-- ⚡ I like to make music and i'm a ligthing operator in my free time.
+- ⚡ I like to make music and i'm a Sound Engenieer in my free time.
 
 ---
 
