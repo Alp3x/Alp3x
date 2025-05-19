@@ -9,6 +9,11 @@ I am a Software Engenieer Student <img src="https://media.giphy.com/media/WUlplc
 
 ---
 
+![Alp3x's Stats](https://github-readme-stats.vercel.app/api?username=Alp3x&theme=gruvbox&show_icons=true&hide_border=true&count_private=true)
+
+![Alp3x's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Alp3x&theme=gruvbox&hide_border=true)
+
+---
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
